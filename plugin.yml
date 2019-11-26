@@ -1,0 +1,11 @@
+name: MobSpawnPoints
+author: PulsePvP_
+main: pulsepvp_.mobspawnpoints.Main
+version: 1.5.1
+description: Create your own spawners.
+prefix:
+
+commands:
+  mobspawn:
+    description: Main command 
+    usage: /mobspawn 
